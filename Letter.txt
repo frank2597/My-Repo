@@ -1,2 +1,4 @@
 Hello,
-This is a Letter, and i am writing a list of planets. 
+This is a Letter, and i am writing a list of planets:
+Mars
+
